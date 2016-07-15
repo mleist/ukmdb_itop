@@ -23,7 +23,7 @@ test_requirements = [
 
 setup(
     name='ukmdb_itop',
-    version='0.0.2',
+    version='0.0.3',
     description="UKMDB itop adapter.",
     long_description=readme + '\n\n' + history,
     author="Markus Leist",
