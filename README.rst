@@ -12,6 +12,14 @@ UKMDB itop
         :target: https://readthedocs.org/projects/ukmdb_itop/?badge=latest
         :alt: Documentation Status
 
+.. image:: https://img.shields.io/pypi/l/ukmdb_itop.svg
+
+.. image:: https://img.shields.io/pypi/pyversions/ukmdb_itop.svg
+
+.. image:: https://img.shields.io/pypi/status/ukmdb_itop.svg
+
+.. image:: https://img.shields.io/pypi/dm/ukmdb_itop.svg
+
 
 UKMDB itop adapter.
 
